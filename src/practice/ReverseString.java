@@ -16,6 +16,7 @@ public class ReverseString {
 			}
 			System.out.println("Reversed String is : " + nstr);
 			System.out.println("Reversed String is program");
+			System.out.println("Reversed String is program very easy and very simple");
 
 	}
 
