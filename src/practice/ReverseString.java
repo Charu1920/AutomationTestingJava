@@ -15,6 +15,7 @@ public class ReverseString {
 			nstr = ch + nstr;
 			}
 			System.out.println("Reversed String is : " + nstr);
+			System.out.println("Reversed String is program");
 
 	}
 
